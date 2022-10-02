@@ -8,3 +8,7 @@ In this project. I worked with MS Excel using a dataset called Bike Purchase Dat
 * Then I created 3 different Pivot Tables and Visualizations using those Pivot Tables
 * Last but not least, I created a dashboard where I showcase the visualizations I created using the Pivot Tables
 * In the dashboard, I also added a few filter options (e.g. filter with respect to the marital status)
+
+## The following is the screenshot of the dashboard that I created in this project:
+
+![alt text](https://github.com/rirumel/excel_project/blob/master/excel_dashboard.jpg?raw=true)
