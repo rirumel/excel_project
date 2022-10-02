@@ -1,5 +1,5 @@
 # excel_project
-In this project. I worked with MS Excel using a dataset called Bike Purchase Data. Here I performed the following approaches to process as well as visualize the data:
+In this project. I worked with MS Excel using a dataset called Bike Sales Data. Here I performed the following approaches to process as well as visualize the data:
 
 * Created a new worksheet and pasted the dataset. I usually prefer to work on my own worksheet. It allows me not to change the main dataset and it's safe.
 * Then I renamed the column values of the column called Gender to "Male" and "Female" from "M" and "F"
